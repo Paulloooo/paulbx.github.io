@@ -1,0 +1,53 @@
+body{
+    font-family: Lexend;
+    background-color: #C5DFF8;
+    text-align: center;
+}
+  
+
+.firstp{
+    background-color: #7895CB;
+    padding: 20px;
+    margin: 20px;
+    border-radius: 10px;
+    color: white;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    margin: auto;
+    width: 50%;
+}
+
+.ppimg{
+    position: relative;
+    border-radius: 10px;
+    margin: 20px;
+}
+
+.pres{
+    margin : 20px;
+    text-align: justify;
+}
+
+.cvtext{
+    text-align: center;
+    margin-bottom: 30px;
+}
+
+.dlcv{
+    padding-left: 50px;
+    padding-right: 50px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    background-color: #4A55A2;
+    color: white;
+    border-radius: 30px;
+    font-weight: bold;
+    font-size: 30px;
+    text-decoration: none;
+}
+
+.dlcv:hover{
+    background-color: #7895CB;
+    color: white;
+}
